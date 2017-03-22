@@ -1,2 +1,0 @@
-# TIP
-TumbleBit Improvement Proposal
